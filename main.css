@@ -87,3 +87,7 @@ li {
 	}
 }
 
+@font-face {
+	font-family: 'Lucida Grande';
+	src: url('fonts/lucida-grande/LucidaGrande.ttf') format('truetype');
+}
