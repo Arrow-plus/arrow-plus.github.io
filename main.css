@@ -41,6 +41,16 @@ p, li {
 	font-family:  "Lucida Grande", Geneva, Arial, Verdana, sans-serif;
 }
 
+p.deck::after {
+	display: block;
+	width: 40%;
+	height: 1px;
+	background: #D8D8D8;
+	content: " ";
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
 a {
 	color: #777777;
 	text-decoration: none;
